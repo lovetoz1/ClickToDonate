@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772471158371",
+    "project_id": "clicktodonatefinal",
+    "storage_bucket": "clicktodonatefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772471158371:android:63845584f1a4ac2c686a56",
+        "android_client_info": {
+          "package_name": "com.lovetoz.donate_to_click"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772471158371-rg3d8rjavq6ua3d9gggensnpofunm735.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OTjj_8w8i7ezFivXWxqp0vE3RVd6T48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772471158371-rg3d8rjavq6ua3d9gggensnpofunm735.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
